@@ -21,3 +21,7 @@ xcuserdata/
 project.xcworkspace/
 
 xcshareddata/
+
+# AppCode
+.idea
+.idea/
